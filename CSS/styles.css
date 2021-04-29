@@ -80,7 +80,9 @@ body {
     background-color: #fff;
 }
 
-
+div {
+    outline: 0; 
+}
 #navbar {
     position: fixed;
     width: 100%;
