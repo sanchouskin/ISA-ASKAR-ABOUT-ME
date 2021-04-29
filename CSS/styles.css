@@ -90,7 +90,7 @@ div {
 
     *, :after, :before {
     box-sizing: border-box;
-    border: 0 solid #e2e8f0;}
+    border: 0;}
 
     #fullview > div {
 
@@ -104,6 +104,9 @@ div {
       outline:0;
   }
 
+.justify-content-center {
+    justify-content: center;
+}
 .nav {
     display: flex;
     flex-wrap: wrap;
