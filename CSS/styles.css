@@ -104,6 +104,14 @@ div {
       outline:0;
   }
 
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
   .front_clr {
       background-color: #274c77;
       color: #000000;
